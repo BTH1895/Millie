@@ -1,8 +1,8 @@
 
-# *Millie Whatsapp Bot*
+# *BTH WHATSAPP BOT*
 <div align="center">
   
-  [![Millie Whatsapp Bot](https://readme-typing-svg.herokuapp.com?font=times-bold-italic&color=%23F7F7F7&duration=4862&center=true&vCenter=true&lines=WELCOME+TO+MILLIE+WHATSAPP+BOT)](https://github.com/Neeraj-x0/Millie)
+  [![BTH Whatsapp Bot](https://readme-typing-svg.herokuapp.com?font=times-bold-italic&color=%23F7F7F7&duration=4862&center=true&vCenter=true&lines=WELCOME+TO+MILLIE+WHATSAPP+BOT)](https://github.com/Neeraj-x0/Millie)
 </div>
 <div align="center">
   <img border-radius: 15px src="https://www.linkpicture.com/q/g_splash_logo.png" width="200" height="200"/>
@@ -13,13 +13,13 @@
 </p>
 <div align="center">
   
-## JOIN MILLIE WHATSAPP GROUP
+## JOIN BTH WHATSAPP GROUP
 
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png?size=1)](https://chat.whatsapp.com/G5vnBcMOOJeBcWoSN3GEMu)
  
 ## Yotube Tutorial If You have any doubts 
   
-  [![Watch Tutorial](https://img.youtube.com/vi/5ox6VPzVSKs/0.jpg)](https://youtube.com/channel/UCeXjqKkpdS7ODa4SxY7rxbQ)
+  [![Watch Tutorial](https://www.linkpicture.com/q/g_splash_logo.png)](https://youtube.com/channel/UCeXjqKkpdS7ODa4SxY7rxbQ)
 
 ## `FORK AND CHANGE SETTINGS`
 
