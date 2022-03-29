@@ -35,7 +35,7 @@ global.APIKeys = { // The APIKey is here
 const spack = fs.readFileSync("lib/exif.json")
 const stickerpack = JSON.parse(spack)
 if (stickerpack.spackname == '') {
-  var sticker_name = '💋 ᴍɪʟʟɪᴇ 💋'
+  var sticker_name = '💋 BTH 💋'
 } else {
   var sticker_name = stickerpack.spackname
 }
@@ -53,7 +53,7 @@ global.packname = sticker_name
 
 global.wait = '_*Please Wait..*_'
 global.eror = '_*Server Error*_'
-global.fla = 'https://github.com/neera-j/Bot-Files/blob/main/images/millie.jpg'
+global.fla = 'https://www.linkpicture.com/q/g_splash_logo.png'
 
 global.watermark = '© ᴍɪʟʟɪᴇ'
 
