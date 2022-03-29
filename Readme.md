@@ -2,14 +2,14 @@
 # *BTH WHATSAPP BOT*
 <div align="center">
   
-  [![BTH Whatsapp Bot](https://readme-typing-svg.herokuapp.com?font=times-bold-italic&color=%23F7F7F7&duration=4862&center=true&vCenter=true&lines=WELCOME+TO+MILLIE+WHATSAPP+BOT)](https://github.com/Neeraj-x0/Millie)
+  [![BTH WHATSAPP BOT](https://readme-typing-svg.herokuapp.com?font=times-bold-italic&color=%23F7F7F7&duration=4862&center=true&vCenter=true&lines=WELCOME+TO+BTH+WHATSAPP+BOT)](https://github.com/Neeraj-x0/Millie)
 </div>
 <div align="center">
   <img border-radius: 15px src="https://www.linkpicture.com/q/g_splash_logo.png" width="200" height="200"/>
 
 <p align="center">
   <a href="https://instagram.com/_.shibi_li_?utm_medium=copy_link"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/918113921898"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://wa.me/918891903813"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 <div align="center">
   
